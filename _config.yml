@@ -1,8 +1,8 @@
 actors:
   saekis:
-    image_url: /images/actors/alice.png
-    name: saekis
-    url: http://sns.example.com/alice
+    image_url: /images/actors/saekisy.jpg
+    name: saekisy
+    url: https://twitter.com/saekisy
   furu8ma:
     image_url: /images/actors/furu8ma.jpeg
     name: furu8ma
