@@ -7,6 +7,10 @@ actors:
     image_url: /images/actors/furu8ma.jpeg
     name: furu8ma
     url: https://github.com/furu8ma
+  bigplants:
+    image_url: /images/actors/bigplants.jpg
+    name: bigplants
+    url: https://twitter.com/bigplants
 author: furu8ma
 description: young engineer and old engineer discuss about tech and etc..
 description_long: 人生これからな若手エンジニアと、エンジニア定年年齢を大幅に超えたおっさんエンジニアがキャリアやテックについてあれこれ話すPodcast
