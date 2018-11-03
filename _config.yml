@@ -11,6 +11,10 @@ actors:
     image_url: /images/actors/bigplants.jpg
     name: bigplants
     url: https://twitter.com/bigplants
+  fukuhara:
+    image_url: /images/actors/fukuhara.jpg
+    name: fukuhara
+    url: https://twitter.com/sugu_
 author: furu8ma
 description: young engineer and old engineer discuss about tech and etc..
 description_long: 人生これからな若手エンジニアと、エンジニア定年年齢を大幅に超えたおっさんエンジニアがキャリアやテックについてあれこれ話すPodcast
