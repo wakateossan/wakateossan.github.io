@@ -16,7 +16,7 @@ actors:
     name: fukuhara
     url: https://twitter.com/sugu_
 author: furu8ma
-description: young engineer and old engineer discuss about tech and etc..
+description: young engineer and old one discuss about tech and etc..
 description_long: 人生これからな若手エンジニアと、エンジニア定年年齢を大幅に超えたおっさんエンジニアがキャリアやテックについてあれこれ話すPodcast
 email: furu8ma@gmail.com
 exclude:
@@ -36,6 +36,6 @@ permalink: /episode/:title
 sass:
   sass_dir: css
 timezone: Asia/Tokyo
-title: 若手とおっさん
+title: w2o.fm
 url: https://w2o.fm
 google_analytics: UA-2849270-4
