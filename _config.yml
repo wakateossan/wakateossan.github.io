@@ -15,6 +15,10 @@ actors:
     image_url: /images/actors/fukuhara.jpg
     name: fukuhara
     url: https://twitter.com/sugu_
+  fukuhara:
+    image_url: /images/actors/damasa.jpg
+    name: damasa
+    url: https://twitter.com/endam109
 author: furu8ma
 description: young engineer and old one discuss about tech and etc..
 description_long: 人生これからな若手エンジニアと、エンジニア定年年齢を大幅に超えたおっさんエンジニアがキャリアやテックについてあれこれ話すPodcast
