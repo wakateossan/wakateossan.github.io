@@ -23,6 +23,10 @@ actors:
     image_url: /images/actors/ryozi.jpg
     name: Ryozi_zi
     url: https://twitter.com/Ryozi_zi
+  hotta:
+    image_url: /images/actors/hotta.jpg
+    name: hotta
+    url: https://twitter.com/hopitaf
 author: furu8ma
 description: young engineer and old one discuss about tech and etc..
 description_long: 人生これからな若手エンジニアと、エンジニア定年年齢を大幅に超えたおっさんエンジニアがキャリアやテックについてあれこれ話すPodcast
