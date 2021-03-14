@@ -27,6 +27,10 @@ actors:
     image_url: /images/actors/hotta.jpg
     name: hotta
     url: https://twitter.com/hopitaf
+  ssan:
+    image_url: /images/actors/ssan.jpg
+    name: S
+    url: https://twitter.com/goodengineer7
 author: furu8ma
 description: young engineer and old one discuss about tech and etc..
 description_long: 人生これからな若手エンジニアと、エンジニア定年年齢を大幅に超えたおっさんエンジニアがキャリアやテックについてあれこれ話すPodcast
