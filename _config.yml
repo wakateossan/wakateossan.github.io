@@ -35,6 +35,10 @@ actors:
     image_url: /images/actors/kil.jpg
     name: engineerkil
     url: https://twitter.com/engineerkil
+  taka:
+    image_url: /images/actors/taka.jpg
+    name: taka
+    url: https://x.com/_suzutt
 author: furu8ma
 description: young engineer and old one discuss about tech and etc..
 description_long: 人生これからな若手エンジニアと、エンジニア定年年齢を大幅に超えたおっさんエンジニアがキャリアやテックについてあれこれ話すPodcast
